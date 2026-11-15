@@ -155,14 +155,14 @@
   "tv-65p8k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 44999.0,
-   "son_fiyat": 44999.0,
+   "son_fiyat": 46978.2,
    "son": {
-    "fiyat": 44999.0,
-    "satici": "Hepsiburada/Hepsiburada",
-    "link": "https://www.hepsiburada.com/tcl-65p8k-65-165-ekran-uydu-alicili-4k-ultra-hd-google-qled-tv-p-HBCV00009H5BFO?magaza=Hepsiburada",
-    "guvenli": 44999.0
+    "fiyat": 46978.2,
+    "satici": "Hepsiburada/Teknolojiankara",
+    "link": "https://www.hepsiburada.com/tcl-65p8k-65-165-ekran-uydu-alicili-4k-ultra-hd-google-qled-tv-p-HBCV00009H5BFO?magaza=Teknolojiankara",
+    "guvenli": 46978.2
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 47999.0,
     "dip90": 43930.0,
@@ -516,12 +516,12 @@
   "km-beko-kmx91": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 25840.0,
-   "son_fiyat": 25840.0,
+   "son_fiyat": 27048.0,
    "son": {
-    "fiyat": 25840.0,
-    "satici": "n11/sevincbeyazesya",
-    "link": "https://www.n11.com/urun/beko-kmx-91-9-kg-kurutma-makinesi-75777466?magaza=sevincbeyazesya",
-    "guvenli": 25840.0
+    "fiyat": 27048.0,
+    "satici": "n11/tekrargel",
+    "link": "https://www.n11.com/urun/beko-kmx-91-9-kg-kurutma-makinesi-75777466?magaza=tekrargel",
+    "guvenli": 27048.0
    },
    "karar": "normal",
    "ist": {
@@ -725,16 +725,16 @@
   "ut-tefal-fv2844": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 2155.02,
-   "son_fiyat": 2155.02,
+   "son_fiyat": 2243.22,
    "son": {
-    "fiyat": 2155.02,
+    "fiyat": 2243.22,
     "satici": "idefix/Pandora Ticaret",
     "link": "https://www.idefix.com/tefal-express-steam-fv2844-buharli-utu-p-566083?vendorId=5945",
-    "guvenli": 2155.02
+    "guvenli": 2243.22
    },
    "karar": "normal",
    "ist": {
-    "normal": 2155.02,
+    "normal": 2157.51,
     "dip90": 1889.1,
     "dip180": 1599.0,
     "dip180_ay": "Tem 2026",
@@ -744,12 +744,12 @@
   "ut-philips-dst7510": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 4377.99,
-   "son_fiyat": 4377.99,
+   "son_fiyat": 4409.1,
    "son": {
-    "fiyat": 4377.99,
+    "fiyat": 4409.1,
     "satici": "Amazon Türkiye",
     "link": "https://www.amazon.com.tr/dp/B0BRNFKD8P?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
-    "guvenli": 4377.99
+    "guvenli": 4409.1
    },
    "karar": "normal",
    "ist": {
