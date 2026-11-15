@@ -3,6 +3,7 @@ import json
 import re
 import time
 import urllib.request
+from datetime import date
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
@@ -47,3 +48,17 @@ def teklifleri_oku(html):
         })
     teklifler.sort(key=lambda t: t["fiyat"])
     return teklifler
+
+
+def gecmisi_oku(html):
+    """Akakçe'nin fiyat değişim tablosunu [(tarih, en ucuz fiyat), ...] olarak, eskiden yeniye döndürür."""
+    m = re.search(r'<table class="graph_table">(.*?)</table>', html, re.S)
+    if not m:
+        return []
+    satirlar = re.findall(
+        r'<tr><td>(\d\d)\.(\d\d)\.(\d{4})</td><td><span class="pt_v8">([\d.]+)<i>,(\d\d)', m.group(1))
+    gecmis = []
+    for g, a, y, tam, kurus in satirlar:
+        gecmis.append((date(int(y), int(a), int(g)), float(tam.replace(".", "") + "." + kurus)))
+    gecmis.sort()
+    return gecmis
