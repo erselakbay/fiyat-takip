@@ -22,12 +22,12 @@
   "tv-55p8k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 36499.0,
-   "son_fiyat": 37533.02,
+   "son_fiyat": 37729.02,
    "son": {
-    "fiyat": 37533.02,
-    "satici": "idefix/TEDx",
-    "link": "https://www.idefix.com/tcl-55p8k-55-qled-tv-p-14318914?vendorId=12010",
-    "guvenli": 37533.02
+    "fiyat": 37729.02,
+    "satici": "idefix/teknolojiankara",
+    "link": "https://www.idefix.com/tcl-55p8k-55-qled-tv-p-14318914?vendorId=406",
+    "guvenli": 37729.02
    },
    "karar": "bekle",
    "ist": {
@@ -41,22 +41,21 @@
   "tv-55t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 50999.0,
+   "son_fiyat": 59999.0,
    "son": {
-    "fiyat": 50999.0,
+    "fiyat": 59999.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-tcl-55t8d-55-inc-139-ekran-dimming-g-gtv-qd-miniled-tv-1255445.html",
-    "guvenli": 50999.0
+    "guvenli": 59999.0
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 52649.0,
     "dip90": 44999.0,
     "dip180": 35999.0,
     "dip180_ay": "Tem 2026",
     "gun": 178
-   },
-   "son_bildirim": 50999.0
+   }
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -118,22 +117,21 @@
   "tv-65t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 65869.0,
-   "son_fiyat": 65869.0,
+   "son_fiyat": 77499.0,
    "son": {
-    "fiyat": 65869.0,
+    "fiyat": 77499.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-65t8d-65-inc-165-ekran-dimming-gtv-qd-miniled-tv-1255447.html",
-    "guvenli": 65869.0
+    "guvenli": 77499.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 65869.0,
+    "normal": 65884.0,
     "dip90": 51407.18,
     "dip180": 48999.0,
     "dip180_ay": "Ağu 2026",
     "gun": 180
-   },
-   "son_bildirim": 65869.0
+   }
   },
   "tv-nextstar65": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -195,12 +193,12 @@
   "tv-65c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 65960.0,
-   "son_fiyat": 65960.0,
+   "son_fiyat": 68160.0,
    "son": {
-    "fiyat": 65960.0,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=mediamarkt",
-    "guvenli": 65960.0
+    "fiyat": 68160.0,
+    "satici": "Pttavm/Truva ev aletleri",
+    "link": "https://www.pttavm.com/tcl-65c6k-65-165-ekran-4k-ultra-hd-miniled-google-tv-144-hz-p-1574121912",
+    "guvenli": 68160.0
    },
    "karar": "normal",
    "ist": {
@@ -213,13 +211,13 @@
   },
   "tv-65qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 79169.09,
-   "son_fiyat": 79169.09,
+   "en_dusuk": 77999.0,
+   "son_fiyat": 77999.0,
    "son": {
-    "fiyat": 79169.09,
+    "fiyat": 77999.0,
     "satici": "n11/doguhan",
     "link": "https://www.n11.com/urun/samsung-65qn70f-65-4k-uhd-smart-neo-qled-tv-81866912?magaza=doguhan",
-    "guvenli": 79169.09
+    "guvenli": 77999.0
    },
    "karar": "normal",
    "ist": {
@@ -233,16 +231,16 @@
   "tv-65c7l": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 82256.0,
-   "son_fiyat": 82256.0,
+   "son_fiyat": 87360.0,
    "son": {
-    "fiyat": 82256.0,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c7l-65-165-ekran-uydu-alicili-smart-4k-sqd-miniled-google-tv-130022729?magaza=mediamarkt",
-    "guvenli": 82256.0
+    "fiyat": 87360.0,
+    "satici": "idefix/Teknosepeti",
+    "link": "https://www.idefix.com/tcl-65c7l-4k-ultra-hd-65-165-ekran-uydu-alicili-google-smart-sqd-mini-led-tv-p-28947547?vendorId=1476",
+    "guvenli": 87360.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 84096.0,
+    "normal": 84097.5,
     "dip90": 77219.0,
     "dip180": 79467.32,
     "dip180_ay": "Kas 2026",
@@ -328,12 +326,12 @@
   "cm-samsung-ww90cgc04": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 24700.5,
-   "son_fiyat": 24700.5,
+   "son_fiyat": 24799.0,
    "son": {
-    "fiyat": 24700.5,
-    "satici": "idefix/IMG 20",
-    "link": "https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=111",
-    "guvenli": 24700.5
+    "fiyat": 24799.0,
+    "satici": "idefix/Teknomix",
+    "link": "https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=14410",
+    "guvenli": 24799.0
    },
    "karar": "normal",
    "ist": {
@@ -347,12 +345,12 @@
   "cm-lg-f4t2vymew": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 25713.08,
-   "son_fiyat": 25713.08,
+   "son_fiyat": 26219.08,
    "son": {
-    "fiyat": 25713.08,
-    "satici": "Hepsiburada/Teknomix",
-    "link": "https://www.hepsiburada.com/lg-f4t2vymew-9-kg-1400-devir-camasir-makinesi-p-HBCV000048VGOF?magaza=Teknomix",
-    "guvenli": 25713.08
+    "fiyat": 26219.08,
+    "satici": "n11/tekno11",
+    "link": "https://www.n11.com/urun/lg-f4t2vymew-1400-devir-9-kg-camasir-makinesi-37801916?magaza=tekno11",
+    "guvenli": 26219.08
    },
    "karar": "normal",
    "ist": {
@@ -404,12 +402,12 @@
   "cm-bosch-wga252z0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 38446.8,
-   "son_fiyat": 38446.8,
+   "son_fiyat": 39282.6,
    "son": {
-    "fiyat": 38446.8,
+    "fiyat": 39282.6,
     "satici": "Hepsiburada/CANPOL BOSCH",
     "link": "https://www.hepsiburada.com/bosch-wga252z0tr-1200-devir-10-kg-camasir-makinesi-p-HBCV00004GL63H?magaza=CANPOL%20BOSCH",
-    "guvenli": 38446.8
+    "guvenli": 39282.6
    },
    "karar": "normal",
    "ist": {
@@ -423,12 +421,12 @@
   "cm-siemens-wg52a2z0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 51519.08,
-   "son_fiyat": 51519.08,
+   "son_fiyat": 55999.0,
    "son": {
-    "fiyat": 51519.08,
+    "fiyat": 55999.0,
     "satici": "Hepsiburada/SmartTek",
     "link": "https://www.hepsiburada.com/siemens-1200-devir-10-kg-yikama-kapasiteli-camasir-makinesi-a-enerji-sinifi-ile-guclu-performans-wg52a2z0tr-p-HBCV0000548AKQ?magaza=SmartTek",
-    "guvenli": 51519.08
+    "guvenli": 55999.0
    },
    "karar": "normal",
    "ist": {
@@ -437,8 +435,7 @@
     "dip180": 35999.0,
     "dip180_ay": "May 2026",
     "gun": 180
-   },
-   "son_bildirim": 51519.08
+   }
   },
   "cm-siemens-wg52a203tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -614,12 +611,12 @@
   "km-siemens-wq43j2c0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 42921.0,
-   "son_fiyat": 42951.62,
+   "son_fiyat": 42921.0,
    "son": {
-    "fiyat": 42951.62,
-    "satici": "idefix/Hepsifırsat",
-    "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=1467",
-    "guvenli": 42951.62
+    "fiyat": 42921.0,
+    "satici": "idefix/GALA TEKNOLOJİ",
+    "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=1470",
+    "guvenli": 42921.0
    },
    "karar": "normal",
    "ist": {
@@ -632,13 +629,13 @@
   },
   "bm-profilo-bms521v1": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 25899.0,
-   "son_fiyat": 25899.0,
+   "en_dusuk": 25629.45,
+   "son_fiyat": 25629.45,
    "son": {
-    "fiyat": 25899.0,
-    "satici": "Hepsiburada/MK Konuk Ticaret",
-    "link": "https://www.hepsiburada.com/profilo-bms521v1-e-enerji-sinifi-6-programli-14-kisilik-bulasik-makinesi-p-HBCV000046KX7H?magaza=MK%20Konuk%20Ticaret",
-    "guvenli": 25899.0
+    "fiyat": 25629.45,
+    "satici": "idefix/Mk Konuk Ticaret",
+    "link": "https://www.idefix.com/profilo-bms521v1-6-programli-bulasik-makinesi-p-5986060?vendorId=23747",
+    "guvenli": 25629.45
    },
    "karar": "normal",
    "ist": {
@@ -689,15 +686,15 @@
   },
   "sp-dyson-v12-slim-absolute": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 27499.0,
-   "son_fiyat": 27499.0,
+   "en_dusuk": 27299.0,
+   "son_fiyat": 27299.0,
    "son": {
-    "fiyat": 27499.0,
-    "satici": "Pttavm/HKTeknoloji",
-    "link": "https://www.pttavm.com/dyson-v12-detect-slim-absolute-sarjli-dikey-supurge-p-2005748198",
-    "guvenli": 27499.0
+    "fiyat": 27299.0,
+    "satici": "n11/mediamarkt",
+    "link": "https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=mediamarkt&renk=gri-sari",
+    "guvenli": 27299.0
    },
-   "karar": "normal",
+   "karar": "bekle",
    "ist": {
     "normal": 28179.0,
     "dip90": 26644.5,
@@ -832,6 +829,6 @@
    }
   }
  },
- "son_ozet": "2026-11-15",
+ "son_ozet": "2026-11-16",
  "ozet_surumu": 2
 }
