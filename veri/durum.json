@@ -22,12 +22,12 @@
   "tv-55p8k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 36499.0,
-   "son_fiyat": 37729.02,
+   "son_fiyat": 37533.02,
    "son": {
-    "fiyat": 37729.02,
-    "satici": "idefix/teknolojiankara",
-    "link": "https://www.idefix.com/tcl-55p8k-55-qled-tv-p-14318914?vendorId=406",
-    "guvenli": 37729.02
+    "fiyat": 37533.02,
+    "satici": "idefix/TEDx",
+    "link": "https://www.idefix.com/tcl-55p8k-55-qled-tv-p-14318914?vendorId=12010",
+    "guvenli": 37533.02
    },
    "karar": "bekle",
    "ist": {
@@ -60,13 +60,13 @@
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 49245.0,
-   "son_fiyat": 49248.29,
+   "en_dusuk": 49088.2,
+   "son_fiyat": 49088.2,
    "son": {
-    "fiyat": 49248.29,
-    "satici": "n11/demirgilgroup",
-    "link": "https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=demirgilgroup",
-    "guvenli": 49248.29
+    "fiyat": 49088.2,
+    "satici": "idefix/TEDx",
+    "link": "https://www.idefix.com/samsung-55qn70f-4k-ultra-hd-55-140-ekran-uydu-alicili-smart-neo-qled-tv-p-10268479?vendorId=12010",
+    "guvenli": 49088.2
    },
    "karar": "normal",
    "ist": {
@@ -614,12 +614,12 @@
   "km-siemens-wq43j2c0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 42921.0,
-   "son_fiyat": 42921.0,
+   "son_fiyat": 42951.62,
    "son": {
-    "fiyat": 42921.0,
-    "satici": "idefix/GALA TEKNOLOJİ",
-    "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=1470",
-    "guvenli": 42921.0
+    "fiyat": 42951.62,
+    "satici": "idefix/Hepsifırsat",
+    "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=1467",
+    "guvenli": 42951.62
    },
    "karar": "normal",
    "ist": {
