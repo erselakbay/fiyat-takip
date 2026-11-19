@@ -14,7 +14,7 @@
    "ist": {
     "normal": 39999.0,
     "dip90": 34999.0,
-    "dip180": 36499.0,
+    "dip180": 34999.0,
     "dip180_ay": "Kas 2026",
     "gun": 180
    }
@@ -41,21 +41,22 @@
   "tv-55t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 59999.0,
+   "son_fiyat": 50999.0,
    "son": {
-    "fiyat": 59999.0,
+    "fiyat": 50999.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-tcl-55t8d-55-inc-139-ekran-dimming-g-gtv-qd-miniled-tv-1255445.html",
-    "guvenli": 59999.0
+    "guvenli": 50999.0
    },
-   "karar": "normal",
+   "karar": "bekle",
    "ist": {
     "normal": 52649.0,
     "dip90": 44999.0,
     "dip180": 35999.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 50999.0
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -69,7 +70,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 48549.55,
+    "normal": 48599.1,
     "dip90": 43183.6,
     "dip180": 45307.83,
     "dip180_ay": "Ağu 2026",
@@ -89,7 +90,7 @@
    "karar": "normal",
    "ist": {
     "normal": 49979.509999999995,
-    "dip90": 42499.0,
+    "dip90": 44593.32,
     "dip180": 41472.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
@@ -107,31 +108,32 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 70639.33,
+    "normal": 70278.51000000001,
     "dip90": 65999.0,
     "dip180": 66946.8,
     "dip180_ay": "Kas 2026",
-    "gun": 150
+    "gun": 151
    }
   },
   "tv-65t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 65869.0,
-   "son_fiyat": 77499.0,
+   "son_fiyat": 65869.0,
    "son": {
-    "fiyat": 77499.0,
+    "fiyat": 65869.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-65t8d-65-inc-165-ekran-dimming-gtv-qd-miniled-tv-1255447.html",
-    "guvenli": 77499.0
+    "guvenli": 65869.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 65884.0,
+    "normal": 65869.0,
     "dip90": 51407.18,
     "dip180": 48999.0,
     "dip180_ay": "Ağu 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 65869.0
   },
   "tv-nextstar65": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -155,16 +157,16 @@
   "tv-65p8k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 44999.0,
-   "son_fiyat": 49948.02,
+   "son_fiyat": 49947.3,
    "son": {
-    "fiyat": 49948.02,
-    "satici": "Hepsiburada/Turan Tekno",
-    "link": "https://www.hepsiburada.com/tcl-65p8k-65-165-ekran-uydu-alicili-4k-ultra-hd-google-qled-tv-p-HBCV00009H5BFO?magaza=Turan%20Tekno",
-    "guvenli": 49948.02
+    "fiyat": 49947.3,
+    "satici": "Hepsiburada/A R S TEKNOLOJİ",
+    "link": "https://www.hepsiburada.com/tcl-65p8k-65-165-ekran-uydu-alicili-4k-ultra-hd-google-qled-tv-p-HBCV00009H5BFO?magaza=A%20R%20S%20TEKNOLOJ%C4%B0",
+    "guvenli": 49947.3
    },
    "karar": "normal",
    "ist": {
-    "normal": 48179.5,
+    "normal": 48360.0,
     "dip90": 43930.0,
     "dip180": 42499.0,
     "dip180_ay": "Tem 2026",
@@ -196,13 +198,13 @@
    "son_fiyat": 66639.02,
    "son": {
     "fiyat": 66639.02,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=mediamarkt",
+    "satici": "Pazarama/MEDIAMARKT",
+    "link": "https://www.pazarama.com/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-p-6921732849962?magaza=mediamarkt",
     "guvenli": 66639.02
    },
    "karar": "normal",
    "ist": {
-    "normal": 59757.3,
+    "normal": 59972.8,
     "dip90": 51998.0,
     "dip180": 51998.0,
     "dip180_ay": "Eyl 2026",
@@ -221,7 +223,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 62913.25,
+    "normal": 63787.5,
     "dip90": 47999.0,
     "dip180": 54900.0,
     "dip180_ay": "Ağu 2026",
@@ -240,7 +242,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 84027.5,
+    "normal": 83595.5,
     "dip90": 77219.0,
     "dip180": 79467.32,
     "dip180_ay": "Kas 2026",
@@ -264,7 +266,7 @@
     "dip90": 77021.0,
     "dip180": 78399.0,
     "dip180_ay": "Tem 2026",
-    "gun": 150
+    "gun": 151
    }
   },
   "cm-beko-cmxd9100": {
@@ -298,7 +300,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 26575.9,
+    "normal": 26598.0,
     "dip90": 24023.04,
     "dip180": 21084.1,
     "dip180_ay": "Haz 2026",
@@ -336,7 +338,7 @@
    },
    "karar": "bekle",
    "ist": {
-    "normal": 24489.05,
+    "normal": 24479.1,
     "dip90": 23299.0,
     "dip180": 22199.0,
     "dip180_ay": "Haz 2026",
@@ -355,7 +357,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 23649.0,
+    "normal": 24261.36,
     "dip90": 23161.05,
     "dip180": 21775.48,
     "dip180_ay": "Haz 2026",
@@ -394,7 +396,7 @@
    "karar": "normal",
    "ist": {
     "normal": 30999.0,
-    "dip90": 27000.0,
+    "dip90": 27300.0,
     "dip180": 27000.0,
     "dip180_ay": "Ağu 2026",
     "gun": 180
@@ -412,7 +414,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 37405.2,
+    "normal": 37405.645000000004,
     "dip90": 33700.0,
     "dip180": 31980.65,
     "dip180_ay": "May 2026",
@@ -526,7 +528,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 22613.5,
+    "normal": 22806.25,
     "dip90": 20722.3,
     "dip180": 20020.0,
     "dip180_ay": "Haz 2026",
@@ -546,8 +548,8 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 29759.07,
-    "dip90": 27183.81,
+    "normal": 29879.035,
+    "dip90": 27198.0,
     "dip180": 26908.2,
     "dip180_ay": "Ağu 2026",
     "gun": 180
@@ -584,11 +586,11 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 33396.5,
+    "normal": 33398.0,
     "dip90": 32402.7,
     "dip180": 29747.15,
     "dip180_ay": "Haz 2026",
-    "gun": 178
+    "gun": 179
    }
   },
   "km-siemens-wq42a201tr": {
@@ -604,7 +606,7 @@
    "karar": "normal",
    "ist": {
     "normal": 35269.195,
-    "dip90": 32898.0,
+    "dip90": 32930.0,
     "dip180": 28329.34,
     "dip180_ay": "Haz 2026",
     "gun": 180
@@ -623,7 +625,7 @@
    "karar": "normal",
    "ist": {
     "normal": 42104.509999999995,
-    "dip90": 37698.0,
+    "dip90": 37846.83,
     "dip180": 32399.0,
     "dip180_ay": "Haz 2026",
     "gun": 180
@@ -660,7 +662,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 47408.3,
+    "normal": 47417.6,
     "dip90": 46054.8,
     "dip180": 46054.8,
     "dip180_ay": "Eyl 2026",
@@ -670,16 +672,16 @@
   "sp-dyson-v15-absolute": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 30069.03,
-   "son_fiyat": 30999.0,
+   "son_fiyat": 30992.0,
    "son": {
-    "fiyat": 30999.0,
-    "satici": "Trendyol/UÇAR PREMİUM",
-    "link": "https://www.trendyol.com/dyson/v15-detect-absolute-kablosuz-supurge-p-1163415844?merchantId=1198510",
-    "guvenli": 30999.0
+    "fiyat": 30992.0,
+    "satici": "Trendyol/ONDOKUZ",
+    "link": "https://www.trendyol.com/dyson/v15-detect-absolute-kablosuz-supurge-p-1163415844?merchantId=1082858",
+    "guvenli": 30992.0
    },
    "karar": "bekle",
    "ist": {
-    "normal": 34599.0,
+    "normal": 34548.95,
     "dip90": 28999.0,
     "dip180": 29760.0,
     "dip180_ay": "Kas 2026",
@@ -698,7 +700,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 28159.0,
+    "normal": 28139.0,
     "dip90": 26644.5,
     "dip180": 26879.04,
     "dip180_ay": "Eki 2026",
@@ -721,7 +723,7 @@
     "dip90": 48000.0,
     "dip180": 35000.0,
     "dip180_ay": "Tem 2026",
-    "gun": 144
+    "gun": 145
    }
   },
   "ut-tefal-fv2844": {
@@ -755,8 +757,8 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 3894.0,
-    "dip90": 3485.35,
+    "normal": 3899.0,
+    "dip90": 3486.9,
     "dip180": 3486.9,
     "dip180_ay": "Eyl 2026",
     "gun": 180
@@ -765,12 +767,12 @@
   "ut-philips-dst8050": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 6299.0,
-   "son_fiyat": 7064.1,
+   "son_fiyat": 7244.1,
    "son": {
-    "fiyat": 7064.1,
+    "fiyat": 7244.1,
     "satici": "Gelenalsin.com",
     "link": "https://www.gelenalsin.com/philips-azur-8000-serisi-dst8050-20-3000-w-buharli-utu-ph-utu-dst8050-20",
-    "guvenli": 7064.1
+    "guvenli": 7244.1
    },
    "karar": "normal",
    "ist": {
@@ -814,12 +816,12 @@
   "ut-tefal-gv9230": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 13898.63,
-   "son_fiyat": 13999.0,
+   "son_fiyat": 14159.0,
    "son": {
-    "fiyat": 13999.0,
-    "satici": "Adobilisim.com",
-    "link": "https://www.adobilisim.com/tefal-gv9230-pro-express-protect-2400-w-buhar-kazanli-utu",
-    "guvenli": 13999.0
+    "fiyat": 14159.0,
+    "satici": "Pttavm/PANDORA TİCARET",
+    "link": "https://www.pttavm.com/tefal-gv9230-pro-express-protect-buhar-kazanli-utu-7-5-bar-p-815389598",
+    "guvenli": 14159.0
    },
    "karar": "normal",
    "ist": {
