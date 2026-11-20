@@ -79,17 +79,17 @@
   "tv-55c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49979.02,
-   "son_fiyat": 52430.8,
+   "son_fiyat": 50234.17,
    "son": {
-    "fiyat": 52430.8,
-    "satici": "n11/evimmm",
-    "link": "https://www.n11.com/urun/tcl-55c6k-4k-uhd-qd-miniled-55-144hz-google-tv-91634080?magaza=evimmm",
-    "guvenli": 52430.8
+    "fiyat": 50234.17,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/tcl-55c6k-55-139-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H5398?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 50234.17
    },
    "karar": "normal",
    "ist": {
     "normal": 49980.0,
-    "dip90": 44593.32,
+    "dip90": 45553.14,
     "dip180": 41472.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
@@ -101,17 +101,17 @@
    "son_fiyat": 68570.45,
    "son": {
     "fiyat": 68570.45,
-    "satici": "Amazon Türkiye/Teknofish",
-    "link": "https://www.amazon.com.tr/dp/B0H2F8TGP3?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
+    "satici": "Hepsiburada/MrCep",
+    "link": "https://www.hepsiburada.com/samsung-55s85h-55-140-ekran-uydu-alicili-4k-ultra-hd-smart-oled-tv-p-HBCV0000FTKP3I?magaza=MrCep",
     "guvenli": 68570.45
    },
    "karar": "normal",
    "ist": {
-    "normal": 70278.51000000001,
+    "normal": 69999.0,
     "dip90": 65999.0,
     "dip180": 66946.8,
     "dip180_ay": "Kas 2026",
-    "gun": 151
+    "gun": 152
    }
   },
   "tv-65t8d": {
@@ -177,8 +177,8 @@
    "son_fiyat": 49999.0,
    "son": {
     "fiyat": 49999.0,
-    "satici": "Hepsiburada/Hepsiburada",
-    "link": "https://www.hepsiburada.com/iffalcon-65u95a-65-165-ekran-uydu-alicili-4k-ultra-hd-google-smart-miniled-tv-p-HBCV0000C4Q9BH?magaza=Hepsiburada",
+    "satici": "Amazon Türkiye",
+    "link": "https://www.amazon.com.tr/dp/B0GGB9NL4W?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
     "guvenli": 49999.0
    },
    "karar": "bekle",
@@ -192,22 +192,23 @@
   },
   "tv-65c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 65959.03,
-   "son_fiyat": 69450.8,
+   "en_dusuk": 62633.14,
+   "son_fiyat": 62633.14,
    "son": {
-    "fiyat": 69450.8,
-    "satici": "n11/evimmm",
-    "link": "https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=evimmm",
-    "guvenli": 69450.8
+    "fiyat": 62633.14,
+    "satici": "Hepsiburada/Teknosa",
+    "link": "https://www.hepsiburada.com/tcl-65c6k-65-165-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H55RP?magaza=Teknosa",
+    "guvenli": 62633.14
    },
    "karar": "normal",
    "ist": {
-    "normal": 59972.8,
+    "normal": 59999.0,
     "dip90": 51998.0,
     "dip180": 51998.0,
     "dip180_ay": "Eyl 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 62633.14
   },
   "tv-65qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -241,7 +242,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 84027.5,
+    "normal": 83595.5,
     "dip90": 77219.0,
     "dip180": 79467.32,
     "dip180_ay": "Kas 2026",
@@ -250,21 +251,21 @@
   },
   "tv-65s85h": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 86499.0,
-   "son_fiyat": 86499.0,
+   "en_dusuk": 83361.57,
+   "son_fiyat": 83361.57,
    "son": {
-    "fiyat": 86499.0,
-    "satici": "idefix/BEUtech",
-    "link": "https://www.idefix.com/samsung-65-oled-s85h-4k-vision-ai-smart-tv-2026-p-27498625?vendorId=8372",
-    "guvenli": 86499.0
+    "fiyat": 83361.57,
+    "satici": "Hepsiburada/Teknosa",
+    "link": "https://www.hepsiburada.com/samsung-65s85h-65-165-ekran-uydu-alicili-4k-ultra-hd-tizen-oled-tv-p-HBCV0000EXBUM3?magaza=Teknosa",
+    "guvenli": 83361.57
    },
    "karar": "bekle",
    "ist": {
-    "normal": 92615.5,
+    "normal": 92606.0,
     "dip90": 77021.0,
     "dip180": 78399.0,
     "dip180_ay": "Tem 2026",
-    "gun": 151
+    "gun": 152
    }
   },
   "cm-beko-cmxd9100": {
@@ -336,7 +337,7 @@
    },
    "karar": "bekle",
    "ist": {
-    "normal": 24479.1,
+    "normal": 24339.05,
     "dip90": 23299.0,
     "dip180": 22199.0,
     "dip180_ay": "Haz 2026",
@@ -355,7 +356,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 24261.36,
+    "normal": 24873.72,
     "dip90": 23161.05,
     "dip180": 21775.48,
     "dip180_ay": "Haz 2026",
@@ -376,7 +377,7 @@
    "ist": {
     "normal": 36900.0,
     "dip90": 29072.0,
-    "dip180": 30453.84,
+    "dip180": 29704.0,
     "dip180_ay": "Kas 2026",
     "gun": 180
    }
@@ -412,7 +413,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 37405.645000000004,
+    "normal": 37618.19,
     "dip90": 33700.0,
     "dip180": 31980.65,
     "dip180_ay": "May 2026",
@@ -459,18 +460,18 @@
   },
   "cm-beko-cm10121": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 28499.0,
-   "son_fiyat": 28499.0,
+   "en_dusuk": 28498.0,
+   "son_fiyat": 28498.0,
    "son": {
-    "fiyat": 28499.0,
-    "satici": "Bekobaser.com",
-    "link": "https://bekobaser.com/beko-cm-10121-10kg-camasir-makinesi-",
-    "guvenli": 28499.0
+    "fiyat": 28498.0,
+    "satici": "Jebinde.com",
+    "link": "https://www.jebinde.com/detay/beko-cm-10121-10-kg-1200-devir-beyaz-camasir-makinesi-92695",
+    "guvenli": 28498.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 26435.61,
-    "dip90": 24171.0,
+    "normal": 26440.0,
+    "dip90": 24242.0,
     "dip180": 22599.0,
     "dip180_ay": "Haz 2026",
     "gun": 180
@@ -489,8 +490,8 @@
    "karar": "normal",
    "ist": {
     "normal": 15999.0,
-    "dip90": 15098.0,
-    "dip180": 14489.1,
+    "dip90": 15735.6,
+    "dip180": 14524.2,
     "dip180_ay": "Tem 2026",
     "gun": 180
    }
@@ -526,7 +527,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 22806.25,
+    "normal": 22999.5,
     "dip90": 20722.3,
     "dip180": 20020.0,
     "dip180_ay": "Haz 2026",
@@ -545,7 +546,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 29879.035,
+    "normal": 29999.0,
     "dip90": 27198.0,
     "dip180": 26908.2,
     "dip180_ay": "Ağu 2026",
@@ -583,11 +584,11 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 33398.0,
-    "dip90": 32402.7,
+    "normal": 33875.5,
+    "dip90": 32470.0,
     "dip180": 29747.15,
     "dip180_ay": "Haz 2026",
-    "gun": 179
+    "gun": 180
    }
   },
   "km-siemens-wq42a201tr": {
@@ -603,7 +604,7 @@
    "karar": "normal",
    "ist": {
     "normal": 35269.195,
-    "dip90": 32930.0,
+    "dip90": 33099.0,
     "dip180": 28329.34,
     "dip180_ay": "Haz 2026",
     "gun": 180
@@ -622,7 +623,7 @@
    "karar": "normal",
    "ist": {
     "normal": 42073.02,
-    "dip90": 37846.83,
+    "dip90": 37999.0,
     "dip180": 32399.0,
     "dip180_ay": "Haz 2026",
     "gun": 180
@@ -649,13 +650,13 @@
   },
   "bm-bosch-sms8ydi82t": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 52199.0,
-   "son_fiyat": 52199.0,
+   "en_dusuk": 52080.0,
+   "son_fiyat": 52080.0,
    "son": {
-    "fiyat": 52199.0,
-    "satici": "n11/tunahangrup",
-    "link": "https://www.n11.com/urun/bosch-sms8ydi82t-8-programli-13-kisilik-bulasik-makinesi-37333174?magaza=tunahangrup",
-    "guvenli": 52199.0
+    "fiyat": 52080.0,
+    "satici": "idefix/Hepsifırsat",
+    "link": "https://www.idefix.com/bosch-sms8ydi82t-serie-8-inox-bulasik-makinesi-p-6414452?vendorId=1467",
+    "guvenli": 52080.0
    },
    "karar": "normal",
    "ist": {
@@ -669,16 +670,16 @@
   "sp-dyson-v15-absolute": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 30069.03,
-   "son_fiyat": 30379.02,
+   "son_fiyat": 30799.97,
    "son": {
-    "fiyat": 30379.02,
-    "satici": "idefix/Teknocep Premium",
-    "link": "https://www.idefix.com/dyson-v15-detect-absolute-sarjli-dikey-supurge-p-1839389?vendorId=15948",
-    "guvenli": 30379.02
+    "fiyat": 30799.97,
+    "satici": "Migros Sanal Market Ekstra",
+    "link": "https://www.migros.com.tr/elektronik/dyson-v15-detect-absolute-kablosuz-supurge-p-2545022",
+    "guvenli": 30799.97
    },
    "karar": "bekle",
    "ist": {
-    "normal": 34548.95,
+    "normal": 34480.42,
     "dip90": 28999.0,
     "dip180": 29760.0,
     "dip180_ay": "Kas 2026",
@@ -720,7 +721,7 @@
     "dip90": 48000.0,
     "dip180": 35000.0,
     "dip180_ay": "Tem 2026",
-    "gun": 145
+    "gun": 146
    }
   },
   "ut-tefal-fv2844": {
@@ -744,13 +745,13 @@
   },
   "ut-philips-dst7510": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 3999.0,
-   "son_fiyat": 4389.0,
+   "en_dusuk": 3949.0,
+   "son_fiyat": 3949.0,
    "son": {
-    "fiyat": 4389.0,
-    "satici": "n11/n11",
-    "link": "https://www.n11.com/urun/philips-dst751080-azur-7500-serisi-3200-w-buharli-utu-30594318?magaza=n11&renk=lacivert",
-    "guvenli": 4389.0
+    "fiyat": 3949.0,
+    "satici": "Hepsiburada/ÇetinkayaHome",
+    "link": "https://www.hepsiburada.com/philips-7500-serisi-buharli-utu-3200w-55-g-dk-surekli-buhar-steamglide-elite-260-g-sok-buhar-mavi-altin-rengi-dst7510-80-p-HBCV00003MWUIQ?magaza=%C3%87etinkayaHome",
+    "guvenli": 3949.0
    },
    "karar": "normal",
    "ist": {
@@ -759,17 +760,18 @@
     "dip180": 3486.9,
     "dip180_ay": "Eyl 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 3949.0
   },
   "ut-philips-dst8050": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 6299.0,
-   "son_fiyat": 7244.1,
+   "son_fiyat": 7443.43,
    "son": {
-    "fiyat": 7244.1,
-    "satici": "Gelenalsin.com",
-    "link": "https://www.gelenalsin.com/philips-azur-8000-serisi-dst8050-20-3000-w-buharli-utu-ph-utu-dst8050-20",
-    "guvenli": 7244.1
+    "fiyat": 7443.43,
+    "satici": "idefix/Mobilya Park",
+    "link": "https://www.idefix.com/philips-azur-8000-serisi-dst805020-3000-w-buharli-utu-p-2648461?vendorId=19139",
+    "guvenli": 7443.43
    },
    "karar": "normal",
    "ist": {
@@ -803,7 +805,7 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 10799.0,
+    "normal": 10828.994999999999,
     "dip90": 9499.04,
     "dip180": 8672.02,
     "dip180_ay": "Haz 2026",
@@ -813,12 +815,12 @@
   "ut-tefal-gv9230": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 13868.0,
-   "son_fiyat": 13868.0,
+   "son_fiyat": 13999.97,
    "son": {
-    "fiyat": 13868.0,
-    "satici": "Hepsiburada/Rota Life",
-    "link": "https://www.hepsiburada.com/tefal-pro-express-protect-gv9230-buhar-kazanli-utu-p-HBV00000Y1MSI?magaza=Rota%20Life",
-    "guvenli": 13868.0
+    "fiyat": 13999.97,
+    "satici": "Migros Sanal Market Ekstra",
+    "link": "https://www.migros.com.tr/elektronik/tefal-gv9230-buhar-kazanli-utu-p-253db21",
+    "guvenli": 13999.97
    },
    "karar": "normal",
    "ist": {
