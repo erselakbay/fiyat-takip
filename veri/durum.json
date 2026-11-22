@@ -41,12 +41,12 @@
   "tv-55t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 53999.0,
+   "son_fiyat": 59999.0,
    "son": {
-    "fiyat": 53999.0,
+    "fiyat": 59999.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-tcl-55t8d-55-inc-139-ekran-dimming-g-gtv-qd-miniled-tv-1255445.html",
-    "guvenli": 53999.0
+    "guvenli": 59999.0
    },
    "karar": "normal",
    "ist": {
@@ -55,18 +55,17 @@
     "dip180": 35999.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
-   },
-   "son_bildirim": 53999.0
+   }
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49088.2,
-   "son_fiyat": 50876.5,
+   "son_fiyat": 51401.0,
    "son": {
-    "fiyat": 50876.5,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=mediamarkt",
-    "guvenli": 50876.5
+    "fiyat": 51401.0,
+    "satici": "Pazarama/MEDIAMARKT",
+    "link": "https://www.pazarama.com/samsung-qe55qn70fauxtk-55-inc-neo-qled-4k-smart-televizyon-p-8806095980508?magaza=mediamarkt",
+    "guvenli": 51401.0
    },
    "karar": "normal",
    "ist": {
@@ -235,12 +234,12 @@
   "tv-65c7l": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 82255.03,
-   "son_fiyat": 92538.0,
+   "son_fiyat": 92357.1,
    "son": {
-    "fiyat": 92538.0,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c7l-65-165-ekran-uydu-alicili-smart-4k-sqd-miniled-google-tv-130022729?magaza=mediamarkt",
-    "guvenli": 92538.0
+    "fiyat": 92357.1,
+    "satici": "Hepsiburada/boandbo",
+    "link": "https://www.hepsiburada.com/tcl-65c7l-65-165-ekran-uydu-alicili-4k-ultra-hd-smart-sqd-miniled-tv-p-HBCV0000ET0FL6?magaza=boandbo",
+    "guvenli": 92357.1
    },
    "karar": "normal",
    "ist": {
@@ -691,12 +690,12 @@
   "sp-dyson-v12-slim-absolute": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 27299.0,
-   "son_fiyat": 27341.02,
+   "son_fiyat": 27859.01,
    "son": {
-    "fiyat": 27341.02,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=mediamarkt&renk=gri-sari",
-    "guvenli": 27341.02
+    "fiyat": 27859.01,
+    "satici": "n11/teknosa",
+    "link": "https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=teknosa&renk=gri-sari",
+    "guvenli": 27859.01
    },
    "karar": "normal",
    "ist": {
@@ -748,12 +747,12 @@
   "ut-philips-dst7510": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 3949.0,
-   "son_fiyat": 3949.0,
+   "son_fiyat": 4449.0,
    "son": {
-    "fiyat": 3949.0,
-    "satici": "Hepsiburada/ÇetinkayaHome",
-    "link": "https://www.hepsiburada.com/philips-7500-serisi-buharli-utu-3200w-55-g-dk-surekli-buhar-steamglide-elite-260-g-sok-buhar-mavi-altin-rengi-dst7510-80-p-HBCV00003MWUIQ?magaza=%C3%87etinkayaHome",
-    "guvenli": 3949.0
+    "fiyat": 4449.0,
+    "satici": "Hepsiburada/Hesaplı Alışveriş",
+    "link": "https://www.hepsiburada.com/philips-7500-serisi-buharli-utu-3200w-55-g-dk-surekli-buhar-steamglide-elite-260-g-sok-buhar-mavi-altin-rengi-dst7510-80-p-HBCV00003MWUIQ?magaza=Hesapl%C4%B1%20Al%C4%B1%C5%9Fveri%C5%9F",
+    "guvenli": 4449.0
    },
    "karar": "normal",
    "ist": {
@@ -762,8 +761,7 @@
     "dip180": 3486.9,
     "dip180_ay": "Eyl 2026",
     "gun": 180
-   },
-   "son_bildirim": 3949.0
+   }
   },
   "ut-philips-dst8050": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -834,6 +832,6 @@
    }
   }
  },
- "son_ozet": "2026-11-21",
+ "son_ozet": "2026-11-22",
  "ozet_surumu": 2
 }
