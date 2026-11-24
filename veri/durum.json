@@ -41,32 +41,31 @@
   "tv-55t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 50999.0,
+   "son_fiyat": 59999.0,
    "son": {
-    "fiyat": 50999.0,
+    "fiyat": 59999.0,
     "satici": "MediaMarkt",
     "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-tcl-55t8d-55-inc-139-ekran-dimming-g-gtv-qd-miniled-tv-1255445.html",
-    "guvenli": 50999.0
+    "guvenli": 59999.0
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 52649.0,
     "dip90": 45476.52,
     "dip180": 35999.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
-   },
-   "son_bildirim": 50999.0
+   }
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49088.2,
-   "son_fiyat": 50876.5,
+   "son_fiyat": 51022.0,
    "son": {
-    "fiyat": 50876.5,
+    "fiyat": 51022.0,
     "satici": "n11/mediamarkt",
     "link": "https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=mediamarkt",
-    "guvenli": 50876.5
+    "guvenli": 51022.0
    },
    "karar": "normal",
    "ist": {
@@ -118,21 +117,22 @@
   "tv-65t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 65869.0,
+   "son_fiyat": 50999.0,
    "son": {
-    "fiyat": 65869.0,
-    "satici": "MediaMarkt",
-    "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-65t8d-65-inc-165-ekran-dimming-gtv-qd-miniled-tv-1255447.html",
-    "guvenli": 65869.0
+    "fiyat": 50999.0,
+    "satici": "Trendyol/Trendyol",
+    "link": "https://www.trendyol.com/tcl/65t8d-65-inc-4k-uhd-uydu-alicili-google-smart-qd-miniled-dimming-tv-p-1142677070?merchantId=968",
+    "guvenli": 50999.0
    },
-   "karar": "normal",
+   "karar": "al",
    "ist": {
     "normal": 65899.0,
     "dip90": 50999.0,
     "dip180": 48999.0,
     "dip180_ay": "Ağu 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 50999.0
   },
   "tv-nextstar65": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -174,32 +174,33 @@
   },
   "tv-65u95a": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 47559.04,
-   "son_fiyat": 47559.04,
+   "en_dusuk": 46609.04,
+   "son_fiyat": 46609.04,
    "son": {
-    "fiyat": 47559.04,
+    "fiyat": 46609.04,
     "satici": "Amazon Türkiye",
     "link": "https://www.amazon.com.tr/dp/B0GGB9NL4W?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
-    "guvenli": 47559.04
+    "guvenli": 46609.04
    },
-   "karar": "bekle",
+   "karar": "al",
    "ist": {
     "normal": 51999.0,
     "dip90": 45599.05,
-    "dip180": 47499.05,
+    "dip180": 47399.0,
     "dip180_ay": "Kas 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 46609.04
   },
   "tv-65c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 60188.5,
-   "son_fiyat": 60188.5,
+   "son_fiyat": 65815.9,
    "son": {
-    "fiyat": 60188.5,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=mediamarkt",
-    "guvenli": 60188.5
+    "fiyat": 65815.9,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/tcl-65c6k-65-165-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H55RP?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 65815.9
    },
    "karar": "normal",
    "ist": {
@@ -208,8 +209,7 @@
     "dip180": 51998.0,
     "dip180_ay": "Eyl 2026",
     "gun": 180
-   },
-   "son_bildirim": 60188.5
+   }
   },
   "tv-65qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -234,12 +234,12 @@
   "tv-65c7l": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 82255.03,
-   "son_fiyat": 92838.7,
+   "son_fiyat": 101519.26,
    "son": {
-    "fiyat": 92838.7,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c7l-65-165-ekran-uydu-alicili-smart-4k-sqd-miniled-google-tv-130022729?magaza=mediamarkt",
-    "guvenli": 92838.7
+    "fiyat": 101519.26,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/tcl-65c7l-65-165-ekran-uydu-alicili-4k-ultra-hd-smart-sqd-miniled-tv-p-HBCV0000ET0FL6?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 101519.26
    },
    "karar": "normal",
    "ist": {
@@ -633,12 +633,12 @@
   "bm-profilo-bms521v1": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 25629.45,
-   "son_fiyat": 26772.0,
+   "son_fiyat": 27199.0,
    "son": {
-    "fiyat": 26772.0,
-    "satici": "n11/sefaconcept",
-    "link": "https://www.n11.com/urun/profilo-bms521v1-5-programli-14-kisilik-bulasik-makinesi-37622188?magaza=sefaconcept",
-    "guvenli": 26772.0
+    "fiyat": 27199.0,
+    "satici": "idefix/Mk Konuk Ticaret",
+    "link": "https://www.idefix.com/profilo-bms521v1-6-programli-bulasik-makinesi-p-5986060?vendorId=23747",
+    "guvenli": 27199.0
    },
    "karar": "normal",
    "ist": {
@@ -834,6 +834,6 @@
    }
   }
  },
- "son_ozet": "2026-11-23",
+ "son_ozet": "2026-11-24",
  "ozet_surumu": 2
 }
