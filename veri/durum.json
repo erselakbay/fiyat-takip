@@ -22,12 +22,12 @@
   "tv-55p8k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 36499.0,
-   "son_fiyat": 38219.09,
+   "son_fiyat": 38271.24,
    "son": {
-    "fiyat": 38219.09,
-    "satici": "n11/teknolojiankara",
-    "link": "https://www.n11.com/urun/tcl-55p8k-55-4k-uhd-google-qled-tv-89363625?magaza=teknolojiankara",
-    "guvenli": 38219.09
+    "fiyat": 38271.24,
+    "satici": "Hepsiburada/HENJOY",
+    "link": "https://www.hepsiburada.com/tcl-55p8k-55-139-ekran-uydu-alicili-4k-ultra-hd-qled-google-tv-p-HBCV00009P3V3V?magaza=HENJOY",
+    "guvenli": 38271.24
    },
    "karar": "normal",
    "ist": {
@@ -40,13 +40,13 @@
   },
   "tv-55t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 44999.0,
-   "son_fiyat": 44999.0,
+   "en_dusuk": 35999.0,
+   "son_fiyat": 35999.0,
    "son": {
-    "fiyat": 44999.0,
-    "satici": "Hepsiburada/Hepsiburada",
-    "link": "https://www.hepsiburada.com/tcl-55t8d-55-139-ekran-uydu-alicili-4k-ultra-hd-google-smart-qd-miniled-dimming-tv-p-HBCV0000EO3Y6G?magaza=Hepsiburada",
-    "guvenli": 44999.0
+    "fiyat": 35999.0,
+    "satici": "Turkcell/Turkcell Satış A.Ş.",
+    "link": "https://www.turkcell.com.tr/pasaj/tv-ses-sistemleri/televizyonlar/qled-tv/tcl-55t8d-55-inc-4k-uhd-uydu-alicili-google-smart-qd-miniled-dimming-tv?seller=1&color=1003552",
+    "guvenli": 35999.0
    },
    "karar": "al",
    "ist": {
@@ -56,21 +56,21 @@
     "dip180_ay": "Tem 2026",
     "gun": 180
    },
-   "son_bildirim": 44999.0
+   "son_bildirim": 35999.0
   },
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 48470.9,
-   "son_fiyat": 48470.9,
+   "son_fiyat": 51022.0,
    "son": {
-    "fiyat": 48470.9,
+    "fiyat": 51022.0,
     "satici": "n11/mediamarkt",
     "link": "https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=mediamarkt",
-    "guvenli": 48470.9
+    "guvenli": 51022.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 48806.604999999996,
+    "normal": 48930.0,
     "dip90": 43183.6,
     "dip180": 45307.83,
     "dip180_ay": "Ağu 2026",
@@ -80,12 +80,12 @@
   "tv-55c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49979.02,
-   "son_fiyat": 64999.99,
+   "son_fiyat": 63999.0,
    "son": {
-    "fiyat": 64999.99,
+    "fiyat": 63999.0,
     "satici": "idefix/Teknosepeti",
     "link": "https://www.idefix.com/tcl-55c6k-4k-uhd-qd-miniled-55-144hz-google-tv-p-12342665?vendorId=1476",
-    "guvenli": 64999.99
+    "guvenli": 63999.0
    },
    "karar": "normal",
    "ist": {
@@ -98,13 +98,13 @@
   },
   "tv-55s85h": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 67998.72,
-   "son_fiyat": 67998.72,
+   "en_dusuk": 67962.07,
+   "son_fiyat": 67962.07,
    "son": {
-    "fiyat": 67998.72,
-    "satici": "Hepsiburada/Teknofish",
-    "link": "https://www.hepsiburada.com/samsung-55s85h-55-140-ekran-uydu-alicili-4k-ultra-hd-smart-oled-tv-p-HBCV0000FTKP3I?magaza=Teknofish",
-    "guvenli": 67998.72
+    "fiyat": 67962.07,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/samsung-55s85h-55-140-ekran-uydu-alicili-4k-ultra-hd-smart-oled-tv-p-HBCV0000FTKP3I?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 67962.07
    },
    "karar": "normal",
    "ist": {
@@ -118,16 +118,16 @@
   "tv-65t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 65869.0,
+   "son_fiyat": 70199.1,
    "son": {
-    "fiyat": 65869.0,
-    "satici": "MediaMarkt",
-    "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-65t8d-65-inc-165-ekran-dimming-gtv-qd-miniled-tv-1255447.html",
-    "guvenli": 65869.0
+    "fiyat": 70199.1,
+    "satici": "Pazarama/KAFKASDA",
+    "link": "https://www.pazarama.com/tcl-65t8d-televizyon-qled-4k-google-tv-6937574838835-p-6937574838835?magaza=kafkasda",
+    "guvenli": 70199.1
    },
    "karar": "normal",
    "ist": {
-    "normal": 65899.0,
+    "normal": 67799.0,
     "dip90": 50999.0,
     "dip180": 48999.0,
     "dip180_ay": "Ağu 2026",
@@ -195,13 +195,13 @@
   },
   "tv-65c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 60019.72,
-   "son_fiyat": 60140.0,
+   "en_dusuk": 59959.58,
+   "son_fiyat": 59959.58,
    "son": {
-    "fiyat": 60140.0,
+    "fiyat": 59959.58,
     "satici": "n11/mediamarkt",
     "link": "https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=mediamarkt",
-    "guvenli": 60140.0
+    "guvenli": 59959.58
    },
    "karar": "normal",
    "ist": {
@@ -236,12 +236,12 @@
   "tv-65c7l": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 82255.03,
-   "son_fiyat": 92838.7,
+   "son_fiyat": 103999.99,
    "son": {
-    "fiyat": 92838.7,
-    "satici": "n11/mediamarkt",
-    "link": "https://www.n11.com/urun/tcl-65c7l-65-165-ekran-uydu-alicili-smart-4k-sqd-miniled-google-tv-130022729?magaza=mediamarkt",
-    "guvenli": 92838.7
+    "fiyat": 103999.99,
+    "satici": "idefix/Teknosepeti",
+    "link": "https://www.idefix.com/tcl-65c7l-4k-ultra-hd-65-165-ekran-uydu-alicili-google-smart-sqd-mini-led-tv-p-28947547?vendorId=1476",
+    "guvenli": 103999.99
    },
    "karar": "normal",
    "ist": {
@@ -250,18 +250,17 @@
     "dip180": 79467.32,
     "dip180_ay": "Kas 2026",
     "gun": 180
-   },
-   "son_bildirim": 92838.7
+   }
   },
   "tv-65s85h": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 83361.57,
-   "son_fiyat": 85249.0,
+   "en_dusuk": 82764.97,
+   "son_fiyat": 82764.97,
    "son": {
-    "fiyat": 85249.0,
-    "satici": "idefix/BEUtech",
-    "link": "https://www.idefix.com/samsung-65-oled-s85h-4k-vision-ai-smart-tv-2026-p-27498625?vendorId=8372",
-    "guvenli": 85249.0
+    "fiyat": 82764.97,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/samsung-65s85h-65-165-ekran-uydu-alicili-4k-ultra-hd-tizen-oled-tv-p-HBCV0000EXBUM3?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 82764.97
    },
    "karar": "bekle",
    "ist": {
@@ -294,12 +293,12 @@
   "cm-arcelik-9100dmx": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 27349.0,
-   "son_fiyat": 27392.83,
+   "son_fiyat": 27608.48,
    "son": {
-    "fiyat": 27392.83,
-    "satici": "n11/buluselektronikmarket",
-    "link": "https://www.n11.com/urun/arcelik-9100-dmx-1000-devir-9-kg-camasir-makinesi-51657738?magaza=buluselektronikmarket",
-    "guvenli": 27392.83
+    "fiyat": 27608.48,
+    "satici": "Pazarama/ERHAN GÜLENER",
+    "link": "https://www.pazarama.com/9100-dmx-9kg-1000d-beyaz-camasir-makinasi-p-457100007200?magaza=erhan-gulener",
+    "guvenli": 27608.48
    },
    "karar": "normal",
    "ist": {
@@ -332,12 +331,12 @@
   "cm-samsung-ww90cgc04": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 23489.0,
-   "son_fiyat": 24499.0,
+   "son_fiyat": 24299.1,
    "son": {
-    "fiyat": 24499.0,
-    "satici": "Hepsiburada/Hepsiburada",
-    "link": "https://www.hepsiburada.com/samsung-ww90cgc04daeah-9-kg-1400-devir-dahili-wi-fi-eco-bubble-yikama-teknolojili-camasir-makinesi-p-HBCV00005ICR9V?magaza=Hepsiburada",
-    "guvenli": 24499.0
+    "fiyat": 24299.1,
+    "satici": "idefix/IMG 20",
+    "link": "https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=111",
+    "guvenli": 24299.1
    },
    "karar": "normal",
    "ist": {
@@ -370,14 +369,14 @@
   "cm-vestel-cmi99342": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 29095.0,
-   "son_fiyat": 29704.0,
+   "son_fiyat": 37599.06,
    "son": {
-    "fiyat": 29704.0,
-    "satici": "Hepsiburada/İstanbulcarsim",
-    "link": "https://www.hepsiburada.com/vestel-cmi-99342-kx-wifi-9-kg-1400-devir-camasir-makinesi-p-HBCV00004Y5YIR?magaza=%C4%B0stanbulcarsim",
-    "guvenli": 29704.0
+    "fiyat": 37599.06,
+    "satici": "Hepsiburada/Toktok-Vestel Yetkili Onl",
+    "link": "https://www.hepsiburada.com/vestel-cmi-99342-kx-wifi-9-kg-1400-devir-camasir-makinesi-p-HBCV00004Y5YIR?magaza=Toktok-Vestel%20Yetkili%20Online%20Bayi",
+    "guvenli": 37599.06
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 36900.0,
     "dip90": 29072.0,
@@ -436,21 +435,21 @@
    },
    "karar": "normal",
    "ist": {
-    "normal": 45249.095,
-    "dip90": 35999.0,
-    "dip180": 35999.0,
-    "dip180_ay": "May 2026",
-    "gun": 180
+    "normal": 52639.06,
+    "dip90": 52639.06,
+    "dip180": 52639.06,
+    "dip180_ay": "Kas 2026",
+    "gun": 1
    }
   },
   "cm-siemens-wg52a203tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 33130.82,
-   "son_fiyat": 33230.02,
+   "son_fiyat": 33218.0,
    "son": {
-    "fiyat": 33230.02,
-    "satici": "idefix/Hepsifırsat",
-    "link": "https://www.idefix.com/siemens-wg52a203tr-1200-devir-10-kg-camasir-makinesi-p-24237294?vendorId=1467",
+    "fiyat": 33218.0,
+    "satici": "n11/kapidakifirsat",
+    "link": "https://www.n11.com/urun/siemens-wg52a203tr-iq300-1200-devir-10-kg-camasir-makinesi-124141333?magaza=kapidakifirsat",
     "guvenli": 33230.02
    },
    "karar": "normal",
@@ -465,12 +464,12 @@
   "cm-beko-cm10121": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 28449.0,
-   "son_fiyat": 28498.0,
+   "son_fiyat": 28449.0,
    "son": {
-    "fiyat": 28498.0,
-    "satici": "Jebinde.com",
-    "link": "https://www.jebinde.com/detay/beko-cm-10121-10-kg-1200-devir-beyaz-camasir-makinesi-92695",
-    "guvenli": 28498.0
+    "fiyat": 28449.0,
+    "satici": "n11/kaanlarbeyazesya",
+    "link": "https://www.n11.com/urun/beko-cm-10121-10-kg-1200-devir-camasir-makinesi-beyaz-127479346?magaza=kaanlarbeyazesya",
+    "guvenli": 28449.0
    },
    "karar": "normal",
    "ist": {
@@ -503,20 +502,20 @@
   "km-grundig-gdh9655": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 20998.8,
-   "son_fiyat": 22998.6,
+   "son_fiyat": 21998.7,
    "son": {
-    "fiyat": 22998.6,
+    "fiyat": 21998.7,
     "satici": "Hepsiburada/Grundig Türkiye",
     "link": "https://www.hepsiburada.com/grundig-gdh-9655-isi-pompali-9-kg-kurutma-makinesi-p-HBCV0000A57XE3?magaza=Grundig%20T%C3%BCrkiye",
-    "guvenli": 22998.6
+    "guvenli": 21998.7
    },
    "karar": "normal",
    "ist": {
-    "normal": 22005.02,
-    "dip90": 19738.87,
-    "dip180": 16999.0,
-    "dip180_ay": "Tem 2026",
-    "gun": 180
+    "normal": 21998.7,
+    "dip90": 21998.7,
+    "dip180": 21998.7,
+    "dip180_ay": "Kas 2026",
+    "gun": 1
    }
   },
   "km-beko-kmx91": {
@@ -541,12 +540,12 @@
   "km-arcelik-901kmp": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 31022.4,
-   "son_fiyat": 32499.0,
+   "son_fiyat": 31739.08,
    "son": {
-    "fiyat": 32499.0,
-    "satici": "Hepsiburada/Emre Pazarlama",
-    "link": "https://www.hepsiburada.com/arcelik-901-kmp-i-9-kg-kurutma-makinesi-p-HBCV000082VPEZ?magaza=Emre%20Pazarlama",
-    "guvenli": 32499.0
+    "fiyat": 31739.08,
+    "satici": "Pazarama/Emre Pazarlama",
+    "link": "https://www.pazarama.com/arcelik-901-kmp-i-kurutma-makinesi-p-7188270150?magaza=emre-pazarlama",
+    "guvenli": 31739.08
    },
    "karar": "normal",
    "ist": {
@@ -597,34 +596,35 @@
   },
   "km-siemens-wq42a201tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 29999.95,
-   "son_fiyat": 34420.42,
+   "en_dusuk": 29949.0,
+   "son_fiyat": 29949.0,
    "son": {
-    "fiyat": 34420.42,
-    "satici": "idefix/Hepsifırsat",
-    "link": "https://www.idefix.com/siemens-wq42a201tr-9-kg-camasir-kurutma-makinesi-p-12020702?vendorId=1467",
-    "guvenli": 34420.42
+    "fiyat": 29949.0,
+    "satici": "Pttavm/ALSANCAK EV ALETLERİ",
+    "link": "https://www.pttavm.com/siemens-wq42a201tr-kurutma-makinesi-9-kg-beyaz-p-1537183744",
+    "guvenli": 29949.0
    },
-   "karar": "normal",
+   "karar": "al",
    "ist": {
     "normal": 35269.195,
-    "dip90": 33108.0,
+    "dip90": 32930.0,
     "dip180": 28408.28,
     "dip180_ay": "Haz 2026",
     "gun": 180
-   }
+   },
+   "son_bildirim": 29949.0
   },
   "km-siemens-wq43j2c0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 41648.4,
-   "son_fiyat": 41648.4,
+   "en_dusuk": 40631.8,
+   "son_fiyat": 40631.8,
    "son": {
-    "fiyat": 41648.4,
-    "satici": "idefix/GALA TEKNOLOJİ",
-    "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=1470",
-    "guvenli": 41648.4
+    "fiyat": 40631.8,
+    "satici": "Hepsiburada/Gala İletişim",
+    "link": "https://www.hepsiburada.com/siemens-wq43j2c0tr-iq500-isi-pompali-kurutma-makinesi-9-kg-p-HBCV0000B2EHLB?magaza=Gala%20%C4%B0leti%C5%9Fim",
+    "guvenli": 40631.8
    },
-   "karar": "normal",
+   "karar": "bekle",
    "ist": {
     "normal": 42073.02,
     "dip90": 38998.0,
@@ -636,12 +636,12 @@
   "bm-profilo-bms521v1": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 25629.45,
-   "son_fiyat": 26599.0,
+   "son_fiyat": 27199.0,
    "son": {
-    "fiyat": 26599.0,
+    "fiyat": 27199.0,
     "satici": "idefix/Mk Konuk Ticaret",
     "link": "https://www.idefix.com/profilo-bms521v1-6-programli-bulasik-makinesi-p-5986060?vendorId=23747",
-    "guvenli": 26599.0
+    "guvenli": 27199.0
    },
    "karar": "normal",
    "ist": {
@@ -692,19 +692,19 @@
   },
   "sp-dyson-v12-slim-absolute": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
-   "en_dusuk": 26603.64,
-   "son_fiyat": 27799.0,
+   "en_dusuk": 26548.05,
+   "son_fiyat": 26548.05,
    "son": {
-    "fiyat": 27799.0,
-    "satici": "Trendyol/MediaMarkt",
-    "link": "https://www.trendyol.com/dyson/v12-detect-slim-absolute-kablosuz-supurge-sari-nikel-p-1172650726?merchantId=275331",
-    "guvenli": 27799.0
+    "fiyat": 26548.05,
+    "satici": "n11/mediamarkt",
+    "link": "https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=mediamarkt&renk=gri-sari",
+    "guvenli": 26548.05
    },
-   "karar": "normal",
+   "karar": "bekle",
    "ist": {
     "normal": 27924.0,
-    "dip90": 26603.64,
-    "dip180": 26799.0,
+    "dip90": 26548.05,
+    "dip180": 26784.0,
     "dip180_ay": "Kas 2026",
     "gun": 180
    }
@@ -731,14 +731,14 @@
   "ut-tefal-fv2844": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 1999.0,
-   "son_fiyat": 2170.7,
+   "son_fiyat": 2049.46,
    "son": {
-    "fiyat": 2170.7,
+    "fiyat": 2049.46,
     "satici": "Amazon Türkiye",
     "link": "https://www.amazon.com.tr/dp/B0BH1C6KZL?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
-    "guvenli": 2170.7
+    "guvenli": 2049.46
    },
-   "karar": "normal",
+   "karar": "bekle",
    "ist": {
     "normal": 2199.0,
     "dip90": 1889.1,
@@ -753,8 +753,8 @@
    "son_fiyat": 4449.0,
    "son": {
     "fiyat": 4449.0,
-    "satici": "Hepsiburada/MEB TEKNOLOJİ",
-    "link": "https://www.hepsiburada.com/philips-7500-serisi-buharli-utu-3200w-55-g-dk-surekli-buhar-steamglide-elite-260-g-sok-buhar-mavi-altin-rengi-dst7510-80-p-HBCV00003MWUIQ?magaza=MEB%20TEKNOLOJ%C4%B0",
+    "satici": "Amazon Türkiye/Makroreyon",
+    "link": "https://www.amazon.com.tr/dp/B0BRNFKD8P?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR",
     "guvenli": 4449.0
    },
    "karar": "normal",
@@ -769,12 +769,12 @@
   "ut-philips-dst8050": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 6299.0,
-   "son_fiyat": 7469.1,
+   "son_fiyat": 7064.0,
    "son": {
-    "fiyat": 7469.1,
-    "satici": "Gelenalsin.com",
-    "link": "https://www.gelenalsin.com/philips-azur-8000-serisi-dst8050-20-3000-w-buharli-utu-ph-utu-dst8050-20",
-    "guvenli": 7469.1
+    "fiyat": 7064.0,
+    "satici": "Trendyol/dükkan45",
+    "link": "https://www.trendyol.com/philips/azur-8000-series-steam-iron-dst8050-20-p-828917993?merchantId=555610",
+    "guvenli": 7064.0
    },
    "karar": "normal",
    "ist": {
@@ -818,12 +818,12 @@
   "ut-tefal-gv9230": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 13299.05,
-   "son_fiyat": 13999.97,
+   "son_fiyat": 13548.38,
    "son": {
-    "fiyat": 13999.97,
-    "satici": "Migros Sanal Market Ekstra",
-    "link": "https://www.migros.com.tr/elektronik/tefal-gv9230-buhar-kazanli-utu-p-253db21",
-    "guvenli": 13999.97
+    "fiyat": 13548.38,
+    "satici": "Trendyol/Yön AVM",
+    "link": "https://www.trendyol.com/tefal/gv9230-pro-express-protect-140-gr-surekli-ve-560-gr-sok-buharli-2600-watt-buhar-kazanli-utu-p-48935384?merchantId=387607",
+    "guvenli": 13548.38
    },
    "karar": "normal",
    "ist": {
@@ -835,6 +835,6 @@
    }
   }
  },
- "son_ozet": "2026-11-25",
+ "son_ozet": "2026-11-26",
  "ozet_surumu": 2
 }
