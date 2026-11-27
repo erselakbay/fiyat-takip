@@ -80,12 +80,12 @@
   "tv-55c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49979.02,
-   "son_fiyat": 50999.0,
+   "son_fiyat": 53999.1,
    "son": {
-    "fiyat": 50999.0,
-    "satici": "Teknosa/teknosa",
-    "link": "https://www.teknosa.com/tcl-55-c6k-premium-qd-mini-led-tv-p-100000055042?shopId=teknosa",
-    "guvenli": 50999.0
+    "fiyat": 53999.1,
+    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
+    "link": "https://www.hepsiburada.com/tcl-55c6k-55-139-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H5398?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
+    "guvenli": 53999.1
    },
    "karar": "normal",
    "ist": {
@@ -94,8 +94,7 @@
     "dip180": 41472.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
-   },
-   "son_bildirim": 50999.0
+   }
   },
   "tv-55s85h": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -505,22 +504,21 @@
   "km-grundig-gdh9655": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 19998.9,
-   "son_fiyat": 19998.9,
+   "son_fiyat": 23759.1,
    "son": {
-    "fiyat": 19998.9,
+    "fiyat": 23759.1,
     "satici": "Hepsiburada/Grundig Türkiye",
     "link": "https://www.hepsiburada.com/grundig-gdh-9655-isi-pompali-9-kg-kurutma-makinesi-p-HBCV0000A57XE3?magaza=Grundig%20T%C3%BCrkiye",
-    "guvenli": 19998.9
+    "guvenli": 23759.1
    },
-   "karar": "al",
+   "karar": "normal",
    "ist": {
-    "normal": 22005.02,
+    "normal": 22252.010000000002,
     "dip90": 19999.89,
     "dip180": 16999.0,
     "dip180_ay": "Tem 2026",
     "gun": 180
-   },
-   "son_bildirim": 19998.9
+   }
   },
   "km-beko-kmx91": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
