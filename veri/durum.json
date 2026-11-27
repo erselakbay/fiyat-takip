@@ -118,16 +118,16 @@
   "tv-65t8d": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 50999.0,
-   "son_fiyat": 69749.0,
+   "son_fiyat": 69527.64,
    "son": {
-    "fiyat": 69749.0,
-    "satici": "MediaMarkt",
-    "link": "https://www.mediamarkt.com.tr/tr/product/_tcl-65t8d-65-inc-165-ekran-dimming-gtv-qd-miniled-tv-1255447.html",
-    "guvenli": 69749.0
+    "fiyat": 69527.64,
+    "satici": "Hepsiburada/EMC&BİLİSİM&TEKN",
+    "link": "https://www.hepsiburada.com/tcl-65t8d-65-165-ekran-uydu-alicili-4k-ultra-hd-google-smart-qd-miniled-dimming-tv-p-HBCV0000EK95XP?magaza=EMC&B%C4%B0L%C4%B0S%C4%B0M&TEKN",
+    "guvenli": 69527.64
    },
    "karar": "normal",
    "ist": {
-    "normal": 67799.0,
+    "normal": 67713.32,
     "dip90": 50999.0,
     "dip180": 48999.0,
     "dip180_ay": "Ağu 2026",
@@ -216,12 +216,12 @@
   "tv-65qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 72519.02,
-   "son_fiyat": 72519.02,
+   "son_fiyat": 73999.0,
    "son": {
-    "fiyat": 72519.02,
-    "satici": "idefix/CarrefourSA",
-    "link": "https://www.idefix.com/samsung65qn70f-65-165-ekran-uydu-alicili-4k-ultra-hd-tizen-smart-qled-tv-p-10268500?vendorId=5919",
-    "guvenli": 72519.02
+    "fiyat": 73999.0,
+    "satici": "Hepsiburada/CarrefourSA",
+    "link": "https://www.hepsiburada.com/samsung-65qn70f-65-165-ekran-uydu-alicili-4k-ultra-hd-tizen-smart-qled-tv-p-HBCV00008R9XPW?magaza=CarrefourSA",
+    "guvenli": 73999.0
    },
    "karar": "normal",
    "ist": {
@@ -334,16 +334,16 @@
   "cm-samsung-ww90cgc04": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 23489.0,
-   "son_fiyat": 24299.1,
+   "son_fiyat": 24295.0,
    "son": {
-    "fiyat": 24299.1,
-    "satici": "idefix/IMG 20",
-    "link": "https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=111",
-    "guvenli": 24299.1
+    "fiyat": 24295.0,
+    "satici": "idefix/Teknomix",
+    "link": "https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=14410",
+    "guvenli": 24295.0
    },
    "karar": "normal",
    "ist": {
-    "normal": 24297.05,
+    "normal": 24295.0,
     "dip90": 23299.0,
     "dip180": 22199.0,
     "dip180_ay": "Haz 2026",
@@ -699,8 +699,8 @@
    "son_fiyat": 27799.0,
    "son": {
     "fiyat": 27799.0,
-    "satici": "Trendyol/MediaMarkt",
-    "link": "https://www.trendyol.com/dyson/v12-detect-slim-absolute-kablosuz-supurge-sari-nikel-p-1172650726?merchantId=275331",
+    "satici": "n11/mediamarkt",
+    "link": "https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=mediamarkt&renk=gri-sari",
     "guvenli": 27799.0
    },
    "karar": "normal",
