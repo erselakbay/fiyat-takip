@@ -60,14 +60,14 @@
   "tv-55qn70f": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 47339.0,
-   "son_fiyat": 47339.0,
+   "son_fiyat": 48469.93,
    "son": {
-    "fiyat": 47339.0,
-    "satici": "Teknosa/teknosa",
-    "link": "https://www.teknosa.com/samsung-55qn70f-55-139-ekran-4k-uhd-neo-qled-tv-p-100000054884?shopId=teknosa",
-    "guvenli": 47339.0
+    "fiyat": 48469.93,
+    "satici": "n11/mediamarkt",
+    "link": "https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=mediamarkt",
+    "guvenli": 48469.93
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 48806.604999999996,
     "dip90": 43183.6,
@@ -294,16 +294,16 @@
   "cm-arcelik-9100dmx": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 26862.3,
-   "son_fiyat": 26862.3,
+   "son_fiyat": 28090.36,
    "son": {
-    "fiyat": 26862.3,
-    "satici": "Pazarama/ERHAN GÜLENER",
-    "link": "https://www.pazarama.com/9100-dmx-9kg-1000d-beyaz-camasir-makinasi-p-457100007200?magaza=erhan-gulener",
-    "guvenli": 26862.3
+    "fiyat": 28090.36,
+    "satici": "idefix/ErhanGülener",
+    "link": "https://www.idefix.com/arcelik-9100-dmx-1000-devir-9-kg-camasir-makinesi-p-4565331?vendorId=13777",
+    "guvenli": 28090.36
    },
    "karar": "normal",
    "ist": {
-    "normal": 26730.15,
+    "normal": 26806.965,
     "dip90": 24023.04,
     "dip180": 21897.0,
     "dip180_ay": "Haz 2026",
@@ -370,22 +370,21 @@
   "cm-vestel-cmi99342": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 29095.0,
-   "son_fiyat": 29704.0,
+   "son_fiyat": 37599.06,
    "son": {
-    "fiyat": 29704.0,
-    "satici": "Hepsiburada/İstanbulcarsim",
-    "link": "https://www.hepsiburada.com/vestel-cmi-99342-kx-wifi-9-kg-1400-devir-camasir-makinesi-p-HBCV00004Y5YIR?magaza=%C4%B0stanbulcarsim",
-    "guvenli": 29704.0
+    "fiyat": 37599.06,
+    "satici": "Hepsiburada/Toktok-Vestel Yetkili Onl",
+    "link": "https://www.hepsiburada.com/vestel-cmi-99342-kx-wifi-9-kg-1400-devir-camasir-makinesi-p-HBCV00004Y5YIR?magaza=Toktok-Vestel%20Yetkili%20Online%20Bayi",
+    "guvenli": 37599.06
    },
-   "karar": "bekle",
+   "karar": "normal",
    "ist": {
     "normal": 36900.0,
     "dip90": 29072.0,
     "dip180": 29704.0,
     "dip180_ay": "Kas 2026",
     "gun": 180
-   },
-   "son_bildirim": 29704.0
+   }
   },
   "cm-profilo-cga252z0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
@@ -638,12 +637,12 @@
   "bm-profilo-bms521v1": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 25629.45,
-   "son_fiyat": 26906.54,
+   "son_fiyat": 27063.0,
    "son": {
-    "fiyat": 26906.54,
-    "satici": "idefix/Mk Konuk Ticaret",
-    "link": "https://www.idefix.com/profilo-bms521v1-6-programli-bulasik-makinesi-p-5986060?vendorId=23747",
-    "guvenli": 26906.54
+    "fiyat": 27063.0,
+    "satici": "n11/sefaconcept",
+    "link": "https://www.n11.com/urun/profilo-bms521v1-5-programli-14-kisilik-bulasik-makinesi-37622188?magaza=sefaconcept",
+    "guvenli": 27063.0
    },
    "karar": "normal",
    "ist": {
@@ -679,8 +678,8 @@
    "son_fiyat": 31812.0,
    "son": {
     "fiyat": 31812.0,
-    "satici": "Trendyol/Trendsin Evim",
-    "link": "https://www.trendyol.com/dyson/v15-detect-absolute-kablosuz-supurge-p-1163415844?merchantId=568895",
+    "satici": "Trendyol/CHA-CHA STORE",
+    "link": "https://www.trendyol.com/dyson/v15-detect-absolute-kablosuz-supurge-p-1163415844?merchantId=598320",
     "guvenli": 31812.0
    },
    "karar": "bekle",

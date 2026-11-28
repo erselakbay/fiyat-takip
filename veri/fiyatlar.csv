@@ -1735,3 +1735,44 @@ zaman,id,fiyat,satici,teklif_sayisi,guvenli_fiyat,link
 2026-11-28T02:04:26+03:00,ut-philips-dst8050,6999.3,CarrefourSA,10,6999.3,https://www.carrefoursa.com/philips-dst8050-20-azur-serisi-buharli-utu-p-30412416
 2026-11-28T02:04:26+03:00,ut-tefal-gv9221,11999.0,Gumuscudtm.com,10,11999.0,https://www.gumuscudtm.com/urun/tefal-gv9221-e0-pro-express-protect-2600-w-buhar-kazanli-utu
 2026-11-28T02:04:26+03:00,ut-tefal-gv9230,13799.0,Teknosa/teknosa,10,13799.0,https://www.teknosa.com/tefal-pro-express-protect-gv9230-buhar-kazanli-utu-p-120174200?shopId=teknosa
+2026-11-28T06:59:50+03:00,tv-55p8k,37499.0,idefix/F2GTech,10,37499.0,https://www.idefix.com/tcl-55p8k-55-qled-tv-p-14318914?vendorId=1934
+2026-11-28T06:59:50+03:00,tv-55t8d,46499.07,Hepsiburada/Donvito,3,46499.07,https://www.hepsiburada.com/tcl-55t8d-55-139-ekran-uydu-alicili-4k-ultra-hd-google-smart-qd-miniled-dimming-tv-p-HBCV0000EO3Y6G?magaza=Donvito
+2026-11-28T06:59:50+03:00,tv-55qn70f,48469.93,n11/mediamarkt,10,48469.93,https://www.n11.com/urun/samsung-55qn70f-55-4k-uhd-smart-neo-qled-tv-81866896?magaza=mediamarkt
+2026-11-28T06:59:50+03:00,tv-55c6k,53999.1,Hepsiburada/VATAN BİLGİSAYAR,10,53999.1,https://www.hepsiburada.com/tcl-55c6k-55-139-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H5398?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR
+2026-11-28T06:59:50+03:00,tv-55s85h,65698.2,Hepsiburada/Teknofish,10,65698.2,https://www.hepsiburada.com/samsung-55s85h-55-140-ekran-uydu-alicili-4k-ultra-hd-smart-oled-tv-p-HBCV0000FTKP3I?magaza=Teknofish
+2026-11-28T06:59:50+03:00,tv-65t8d,69527.64,Hepsiburada/EMC&BİLİSİM&TEKN,10,69527.64,https://www.hepsiburada.com/tcl-65t8d-65-165-ekran-uydu-alicili-4k-ultra-hd-google-smart-qd-miniled-dimming-tv-p-HBCV0000EK95XP?magaza=EMC&B%C4%B0L%C4%B0S%C4%B0M&TEKN
+2026-11-28T06:59:50+03:00,tv-nextstar65,44771.73,Amazon Türkiye,7,44771.73,https://www.amazon.com.tr/dp/B0GR4VFHJ7?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR
+2026-11-28T06:59:50+03:00,tv-65p8k,52834.25,Hepsiburada/BUĞRA İNTERNET HİZMETLERİ,10,52834.25,https://www.hepsiburada.com/tcl-65p8k-65-165-ekran-uydu-alicili-4k-ultra-hd-google-qled-tv-p-HBCV00009H5BFO?magaza=BU%C4%9ERA%20%C4%B0NTERNET%20H%C4%B0ZMETLER%C4%B0
+2026-11-28T06:59:50+03:00,tv-65u95a,45999.0,Hepsiburada/Hepsiburada,5,45999.0,https://www.hepsiburada.com/iffalcon-65u95a-65-165-ekran-uydu-alicili-4k-ultra-hd-google-smart-miniled-tv-p-HBCV0000C4Q9BH?magaza=Hepsiburada
+2026-11-28T06:59:50+03:00,tv-65c6k,61807.43,n11/mediamarkt,10,61807.43,https://www.n11.com/urun/tcl-65c6k-4k-uhd-qd-miniled-65-144hz-google-tv-91634106?magaza=mediamarkt
+2026-11-28T06:59:50+03:00,tv-65qn70f,73999.0,Hepsiburada/CarrefourSA,8,73999.0,https://www.hepsiburada.com/samsung-65qn70f-65-165-ekran-uydu-alicili-4k-ultra-hd-tizen-smart-qled-tv-p-HBCV00008R9XPW?magaza=CarrefourSA
+2026-11-28T06:59:50+03:00,tv-65c7l,98298.83,n11/mediamarkt,9,98298.83,https://www.n11.com/urun/tcl-65c7l-65-165-ekran-uydu-alicili-smart-4k-sqd-miniled-google-tv-130022729?magaza=mediamarkt
+2026-11-28T06:59:50+03:00,tv-65s85h,69625.63,n11/mediamarkt,10,69625.63,https://www.n11.com/urun/samsung-65s85h-65-4k-uhd-oled-tv-129955087?magaza=mediamarkt
+2026-11-28T06:59:50+03:00,cm-beko-cmxd9100,26505.0,n11/sevincbeyazesya,10,26505.0,https://www.n11.com/urun/beko-cmxd-9100-cm-1000-devir-camasir-makinesi-90670878?magaza=sevincbeyazesya
+2026-11-28T06:59:50+03:00,cm-arcelik-9100dmx,28090.36,idefix/ErhanGülener,10,28090.36,https://www.idefix.com/arcelik-9100-dmx-1000-devir-9-kg-camasir-makinesi-p-4565331?vendorId=13777
+2026-11-28T06:59:50+03:00,cm-bosch-wga242z0tr,42198.99,Pttavm/TODO HOME,9,42198.99,https://www.pttavm.com/bosch-wga242z0tr-serie-4-a-enerji-sinifi-9-kg-1200-devir-camasir-makinesi-p-2002101040
+2026-11-28T06:59:50+03:00,cm-samsung-ww90cgc04,24295.0,idefix/Teknomix,10,24295.0,https://www.idefix.com/samsung-ww90cgc04daeah-9-kg-1400-devir-beyaz-camasir-makinesi-p-2182576?vendorId=14410
+2026-11-28T06:59:50+03:00,cm-lg-f4t2vymew,25149.0,idefix/Teknomix,7,25149.0,https://www.idefix.com/lg-f4t2vymew-9-kg-1400-devir-camasir-makinesi-p-919871?vendorId=14410
+2026-11-28T06:59:50+03:00,cm-vestel-cmi99342,37599.06,Hepsiburada/Toktok-Vestel Yetkili Onl,3,37599.06,https://www.hepsiburada.com/vestel-cmi-99342-kx-wifi-9-kg-1400-devir-camasir-makinesi-p-HBCV00004Y5YIR?magaza=Toktok-Vestel%20Yetkili%20Online%20Bayi
+2026-11-28T06:59:50+03:00,cm-profilo-cga252z0tr,31999.0,A101,10,31999.0,https://www.a101.com.tr/elektronik/profilo-cga252z0tr-1200-devir-camasir-makinesi-10-kg_p-26075555
+2026-11-28T06:59:50+03:00,cm-bosch-wga252z0tr,39282.6,Hepsiburada/CANPOL BOSCH,9,39282.6,https://www.hepsiburada.com/bosch-wga252z0tr-1200-devir-10-kg-camasir-makinesi-p-HBCV00004GL63H?magaza=CANPOL%20BOSCH
+2026-11-28T06:59:50+03:00,cm-siemens-wg52a2z0tr,52639.06,Hepsiburada/SmartTek,1,52639.06,https://www.hepsiburada.com/siemens-1200-devir-10-kg-yikama-kapasiteli-camasir-makinesi-a-enerji-sinifi-ile-guclu-performans-wg52a2z0tr-p-HBCV0000548AKQ?magaza=SmartTek
+2026-11-28T06:59:50+03:00,cm-siemens-wg52a203tr,33031.62,idefix/Hepsifırsat,10,33031.62,https://www.idefix.com/siemens-wg52a203tr-1200-devir-10-kg-camasir-makinesi-p-24237294?vendorId=1467
+2026-11-28T06:59:50+03:00,cm-beko-cm10121,27399.0,idefix/Teknosepeti,10,27399.0,https://www.idefix.com/beko-cm-10121-10-kg-camasir-makinesi-p-26433778?vendorId=1476
+2026-11-28T06:59:50+03:00,km-hoover-hleh9a2te,16999.0,A101,10,16999.0,https://www.a101.com.tr/elektronik/hoover-hle-h9a2te-17-9-kg-camasir-kurutma-makinesi_p-26042927
+2026-11-28T06:59:50+03:00,km-grundig-gdh9655,23759.1,Hepsiburada/Grundig Türkiye,3,23759.1,https://www.hepsiburada.com/grundig-gdh-9655-isi-pompali-9-kg-kurutma-makinesi-p-HBCV0000A57XE3?magaza=Grundig%20T%C3%BCrkiye
+2026-11-28T06:59:50+03:00,km-beko-kmx91,27714.0,n11/sevincbeyazesya,10,27714.0,https://www.n11.com/urun/beko-kmx-91-9-kg-kurutma-makinesi-75777466?magaza=sevincbeyazesya
+2026-11-28T06:59:50+03:00,km-arcelik-901kmp,32499.0,Hepsiburada/Emre Pazarlama,10,32499.0,https://www.hepsiburada.com/arcelik-901-kmp-i-9-kg-kurutma-makinesi-p-HBCV000082VPEZ?magaza=Emre%20Pazarlama
+2026-11-28T06:59:50+03:00,km-arcelik-900kmx,32190.8,idefix/KARABAĞ TİCARET,6,32190.8,https://www.idefix.com/arcelik-900-kmx-s-kurutma-makinesi-p-8631073?vendorId=26467
+2026-11-28T06:59:50+03:00,km-bosch-wqj24200tr,35910.4,idefix/Hepsifırsat,10,35910.4,https://www.idefix.com/bosch-wqj24200tr-9-kg-camasir-kurutma-makinesi-p-18085666?vendorId=1467
+2026-11-28T06:59:50+03:00,km-siemens-wq42a201tr,34420.42,idefix/Hepsifırsat,10,34420.42,https://www.idefix.com/siemens-wq42a201tr-9-kg-camasir-kurutma-makinesi-p-12020702?vendorId=1467
+2026-11-28T06:59:50+03:00,km-siemens-wq43j2c0tr,39149.1,idefix/UlusalAvm,10,39149.1,https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=12401
+2026-11-28T06:59:50+03:00,bm-profilo-bms521v1,27063.0,n11/sefaconcept,4,27063.0,https://www.n11.com/urun/profilo-bms521v1-5-programli-14-kisilik-bulasik-makinesi-37622188?magaza=sefaconcept
+2026-11-28T06:59:50+03:00,bm-bosch-sms8ydi82t,52080.0,idefix/Hepsifırsat,10,52080.0,https://www.idefix.com/bosch-sms8ydi82t-serie-8-inox-bulasik-makinesi-p-6414452?vendorId=1467
+2026-11-28T06:59:50+03:00,sp-dyson-v15-absolute,31812.0,Trendyol/CHA-CHA STORE,10,31812.0,https://www.trendyol.com/dyson/v15-detect-absolute-kablosuz-supurge-p-1163415844?merchantId=598320
+2026-11-28T06:59:50+03:00,sp-dyson-v12-slim-absolute,26683.0,n11/mediamarkt,10,26683.0,https://www.n11.com/urun/dyson-v12-detect-slim-absolute-545-w-akulu-elektrikli-supurge-137371800?magaza=mediamarkt&renk=gri-sari
+2026-11-28T06:59:50+03:00,ut-tefal-fv2844,1899.0,Amazon Türkiye,10,1899.0,https://www.amazon.com.tr/dp/B0BH1C6KZL?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR
+2026-11-28T06:59:50+03:00,ut-philips-dst7510,4416.0,Amazon Türkiye/Makroreyon,10,4416.0,https://www.amazon.com.tr/dp/B0BRNFKD8P?tag=akakcetr-21&linkCode=ogi&th=1&psc=1&language=tr_TR
+2026-11-28T06:59:50+03:00,ut-philips-dst8050,6999.3,CarrefourSA,10,6999.3,https://www.carrefoursa.com/philips-dst8050-20-azur-serisi-buharli-utu-p-30412416
+2026-11-28T06:59:50+03:00,ut-tefal-gv9221,11999.0,Gumuscudtm.com,10,11999.0,https://www.gumuscudtm.com/urun/tefal-gv9221-e0-pro-express-protect-2600-w-buhar-kazanli-utu
+2026-11-28T06:59:50+03:00,ut-tefal-gv9230,13799.0,Teknosa/teknosa,10,13799.0,https://www.teknosa.com/tefal-pro-express-protect-gv9230-buhar-kazanli-utu-p-120174200?shopId=teknosa
