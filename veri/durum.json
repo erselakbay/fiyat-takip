@@ -80,12 +80,12 @@
   "tv-55c6k": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 49979.02,
-   "son_fiyat": 53999.1,
+   "son_fiyat": 62499.99,
    "son": {
-    "fiyat": 53999.1,
-    "satici": "Hepsiburada/VATAN BİLGİSAYAR",
-    "link": "https://www.hepsiburada.com/tcl-55c6k-55-139-ekran-uydu-alicili-4k-ultra-hd-miniled-google-tv-p-HBCV00009H5398?magaza=VATAN%20B%C4%B0LG%C4%B0SAYAR",
-    "guvenli": 53999.1
+    "fiyat": 62499.99,
+    "satici": "idefix/Teknosepeti",
+    "link": "https://www.idefix.com/tcl-55c6k-4k-uhd-qd-miniled-55-144hz-google-tv-p-12342665?vendorId=1476",
+    "guvenli": 62499.99
    },
    "karar": "normal",
    "ist": {
@@ -617,14 +617,14 @@
   "km-siemens-wq43j2c0tr": {
    "ilk_kayit": "2026-11-15T13:00:32+03:00",
    "en_dusuk": 39149.1,
-   "son_fiyat": 39149.1,
+   "son_fiyat": 40019.08,
    "son": {
-    "fiyat": 39149.1,
+    "fiyat": 40019.08,
     "satici": "idefix/UlusalAvm",
     "link": "https://www.idefix.com/siemens-wq43j2c0tr-kurutma-makinesi-p-19383686?vendorId=12401",
-    "guvenli": 39149.1
+    "guvenli": 40019.08
    },
-   "karar": "al",
+   "karar": "bekle",
    "ist": {
     "normal": 42073.02,
     "dip90": 39013.92,
